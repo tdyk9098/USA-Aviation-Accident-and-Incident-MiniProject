@@ -1,4 +1,4 @@
-# USA-Aviation-Accident-and-Incident-10-Days
+# USA-Aviation-Accident-and-Incident-MiniProject
 Mini Project exploring trends and insights into the last 10 days of USA Aviation Accidents and Incidents
 
 Dataset: FAA (attatched in repository)
