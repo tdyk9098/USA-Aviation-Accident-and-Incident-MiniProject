@@ -56,3 +56,5 @@ import cufflinks as cf
 init_notebook_mode(connected = True)
 
 cf.go_offline()
+
+import scipy.stats as st
