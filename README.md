@@ -30,6 +30,8 @@ pip install chart-studio
 
 pip install cufflinks
 
+pip install scipy | conda install -c anaconda scipy
+
 # Import
 %matplotlib inline
 
